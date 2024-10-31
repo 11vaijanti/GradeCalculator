@@ -1,1 +1,2 @@
 # GradeCalculator
+The Grade Calculator is a web-based application designed to help students and educators compute and manage academic grades effortlessly. Users can input their scores for various assignments, exams, and projects, along with corresponding weightings. The application calculates the overall grade, providing instant feedback on performance. With features such as grade tracking, GPA calculation, and visual progress charts, the Grade Calculator aims to simplify academic assessments and enhance understanding of grading criteria
